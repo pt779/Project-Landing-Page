@@ -103,3 +103,25 @@
     display: flex;
     justify-content: center;
 }
+
+.quote-section {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 0 10em;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.quote-author {
+    font-weight: bold;
+    font-size: 18px;
+    align-self: flex-end;
+    margin-top: 20px;
+}
