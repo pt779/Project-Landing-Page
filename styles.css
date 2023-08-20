@@ -24,3 +24,21 @@
 .header-link-three {
     margin-left: 20px;
 }
+
+.hero-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.hero-second-text {
+    color: #e5e7eb;
+    font-size: 18px; 
+}
+
+.sign-up {
+    background-color: #3882f6;
+    border-radius: 5px;
+    color: #e5e7eb;
+    font-size: 18px; 
+}
