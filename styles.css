@@ -1,0 +1,17 @@
+* { 
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-links {
+    display: flex;
+}
+
+.header-link-two,
+.header-link-three {
+    margin-left: 20px;
+}
