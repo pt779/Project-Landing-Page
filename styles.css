@@ -32,7 +32,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 6em;
+    padding: 0 9em;
     font-size: 18px;
     color: #E5E7EB;
     background-color: #1F2937;
@@ -54,7 +54,7 @@
     flex: 1;
     background-color: #6d747d;
     justify-content: center;
-    padding: 6em 0;
+    padding: 5em 0;
 }
 
 .sign-up {
