@@ -1,13 +1,14 @@
 * { 
     box-sizing: border-box;
     font-family: sans-serif;
-    background-color: #1F2937;
+    margin: 0;
 }
 
 .header {
     display: flex;
     justify-content: space-around;
-    margin-top: 5px;
+    padding-top: 10px;
+    background-color: #1F2937;
 }
 
 .header-links {
@@ -34,6 +35,7 @@
     padding: 0 6em;
     font-size: 18px;
     color: #E5E7EB;
+    background-color: #1F2937;
 }
 
 .left-text {
@@ -62,4 +64,42 @@
     border-radius: 8px;
     padding: 5px 1em;
     margin-top: 10px;
+}
+
+.info-section {
+    height: 400px;
+}
+
+.info-title {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    margin: 1em 0
+}
+
+.box {
+    border: 5px solid #3882F6;
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+    margin-left: 30px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.subtext {
+    width: 150px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+.subtexts {
+    display: flex;
+    justify-content: center;
 }
