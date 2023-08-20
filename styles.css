@@ -125,3 +125,39 @@
     align-self: flex-end;
     margin-top: 20px;
 }
+
+.action-section {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action-box {
+    background-color: #3882F6;
+    display: flex;
+    padding: 2em 4em 2em 4em;
+    border-radius: 8px;
+}
+
+.action-text {
+    display: flex;
+    flex-direction: column;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.bottom-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.action-button {
+    border: 3px solid #E5E7EB;
+    color: #E5E7EB;
+    background-color: #3882F6;
+    border-radius: 8px;
+    margin: 0 2em;
+    font-weight: bold;
+    padding: 0 1em 0 1em;
+}
